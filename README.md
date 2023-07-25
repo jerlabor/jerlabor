@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jerlabor
 - 👀 I’m interested in Software and Web Development
 - 🌱 I’m constantly learning..
-- 💞️ I’m looking to collaborate on any porjects using PHP Technologies and Vue Framework
+- 💞️ I’m looking to collaborate on any projects using PHP Technologies and Vue Framework
 - 📫 How to reach me? Here's my linkedin profile: https://www.linkedin.com/in/john-edward-ruyeras-labor-7aab27160
 
 <!---
